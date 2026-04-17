@@ -1,5 +1,11 @@
 # 🚀 Project: Bộ xử lý Pipeline 5 Stage trên kiến trúc RISC-V
+### 📂 Thành viên :
 
+- Nguyễn Nhật Minh CTTT ETE4 K67
+
+- Nguyễn Minh Đức k68
+
+- Phạm Hùng Hòa k68
 ## 📝 Giới thiệu
 
 ⚙️ Đây là dự án thiết kế **CPU Pipeline 5 Stage** dựa trên kiến trúc tập lệnh **RISC-V (RV32I)**. 
